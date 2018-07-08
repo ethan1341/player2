@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1a9d483-a7b0-4069-bbb5-8869e5698c73" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" afterPath="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="485">
-              <caret line="488" column="80" lean-forward="false" selection-start-line="488" selection-start-column="80" selection-end-line="488" selection-end-column="80" />
+              <caret line="488" column="96" lean-forward="false" selection-start-line="488" selection-start-column="96" selection-end-line="488" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -47,19 +47,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="revolution.extension.video.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="revolution.extension.video.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="886" column="8" lean-forward="true" selection-start-line="882" selection-start-column="3" selection-end-line="886" selection-end-column="8" />
               <folding>
-                <marker date="1466669996000" expanded="true" signature="15213:15288" ph="..." />
-                <marker date="1466669996000" expanded="true" signature="16630:16644" ph="..." />
-                <marker date="1466669996000" expanded="true" signature="16759:16781" ph="..." />
-                <marker date="1466669996000" expanded="true" signature="16946:16960" ph="..." />
-                <marker date="1466669996000" expanded="true" signature="17131:17147" ph="..." />
-                <marker date="1466669996000" expanded="true" signature="17550:17741" ph="..." />
-                <marker date="1466669996000" expanded="true" signature="30980:30986" ph="&amp;nbsp;" />
+                <marker date="1531087203959" expanded="true" signature="15213:15288" ph="..." />
+                <marker date="1531087203959" expanded="true" signature="16630:16644" ph="..." />
+                <marker date="1531087203959" expanded="true" signature="16759:16781" ph="..." />
+                <marker date="1531087203959" expanded="true" signature="16946:16960" ph="..." />
+                <marker date="1531087203959" expanded="true" signature="17131:17147" ph="..." />
+                <marker date="1531087203959" expanded="true" signature="17550:17741" ph="..." />
+                <marker date="1531087203959" expanded="true" signature="30992:30998" ph="&amp;nbsp;" />
               </folding>
             </state>
           </provider>
@@ -118,6 +118,7 @@
         <option value="$PROJECT_DIR$/assets/custom/scss/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" />
       </list>
     </option>
   </component>
@@ -328,16 +329,15 @@
       <option name="presentableId" value="Default" />
       <updated>1531073260971</updated>
       <workItem from="1531073262360" duration="10827000" />
-      <workItem from="1531084252887" duration="2806000" />
+      <workItem from="1531084252887" duration="2953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13633000" />
+    <option name="totallyTimeSpent" value="13780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -348,7 +348,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3351836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -458,22 +458,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1466669996000" expanded="true" signature="15213:15288" ph="..." />
-            <marker date="1466669996000" expanded="true" signature="16630:16644" ph="..." />
-            <marker date="1466669996000" expanded="true" signature="16759:16781" ph="..." />
-            <marker date="1466669996000" expanded="true" signature="16946:16960" ph="..." />
-            <marker date="1466669996000" expanded="true" signature="17131:17147" ph="..." />
-            <marker date="1466669996000" expanded="true" signature="17550:17741" ph="..." />
-            <marker date="1466669996000" expanded="true" signature="30980:30986" ph="&amp;nbsp;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1882">
@@ -497,8 +481,24 @@
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
-          <caret line="488" column="80" lean-forward="false" selection-start-line="488" selection-start-column="80" selection-end-line="488" selection-end-column="80" />
+          <caret line="488" column="96" lean-forward="false" selection-start-line="488" selection-start-column="96" selection-end-line="488" selection-end-column="96" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="886" column="8" lean-forward="true" selection-start-line="882" selection-start-column="3" selection-end-line="886" selection-end-column="8" />
+          <folding>
+            <marker date="1531087203959" expanded="true" signature="15213:15288" ph="..." />
+            <marker date="1531087203959" expanded="true" signature="16630:16644" ph="..." />
+            <marker date="1531087203959" expanded="true" signature="16759:16781" ph="..." />
+            <marker date="1531087203959" expanded="true" signature="16946:16960" ph="..." />
+            <marker date="1531087203959" expanded="true" signature="17131:17147" ph="..." />
+            <marker date="1531087203959" expanded="true" signature="17550:17741" ph="..." />
+            <marker date="1531087203959" expanded="true" signature="30992:30998" ph="&amp;nbsp;" />
+          </folding>
         </state>
       </provider>
     </entry>
