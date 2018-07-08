@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1a9d483-a7b0-4069-bbb5-8869e5698c73" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" afterPath="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" />
-    </list>
+    <list default="true" id="d1a9d483-a7b0-4069-bbb5-8869e5698c73" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -329,12 +327,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531073260971</updated>
       <workItem from="1531073262360" duration="10827000" />
-      <workItem from="1531084252887" duration="2953000" />
+      <workItem from="1531084252887" duration="3000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13780000" />
+    <option name="totallyTimeSpent" value="13827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
