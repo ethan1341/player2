@@ -152,6 +152,7 @@
 
                         <div class="rs-background-video-layer"
                              data-forcerewind="on"
+                             data-volume="mute"
                              data-videomp4="assets/custom/video/coding.mp4"
                              data-videowidth="100%"
                              data-videoheight="100%"
@@ -485,11 +486,13 @@
 <script type="text/javascript" src="assets/vendor/rs-plugin/js/extensions/revolution.extension.navigation.min.js"></script>
 <script type="text/javascript" src="assets/vendor/rs-plugin/js/extensions/revolution.extension.parallax.min.js"></script>
 <script type="text/javascript" src="assets/vendor/rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
-<script type="text/javascript" src="assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js"></script>
+<script type="text/javascript" src="assets/vendor/rs-plugin/js/extensions/revolution.extension.video.min.js"></script>
 
 
 <!-- Custom scripts -->
 <script src="assets/custom/js/script.js" type="text/javascript"></script>
-
+<script>
+    jQuery(document).ready(function(){ jQuery(".video_class_name").prop('muted', true); })
+</script>
 </body>
 </html>

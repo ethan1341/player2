@@ -17,9 +17,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="472" column="96" lean-forward="true" selection-start-line="472" selection-start-column="96" selection-end-line="472" selection-end-column="96" />
+            <state relative-caret-position="231">
+              <caret line="481" column="117" lean-forward="true" selection-start-line="481" selection-start-column="117" selection-end-line="481" selection-end-column="117" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.themepunch.revolution.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1882">
+              <caret line="7" column="4895" lean-forward="false" selection-start-line="7" selection-start-column="4890" selection-end-line="7" selection-end-column="4895" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revolution.extension.parallax.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/revolution.extension.parallax.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="542" lean-forward="false" selection-start-line="6" selection-start-column="542" selection-end-line="6" selection-end-column="542" />
+              <folding>
+                <marker date="1466669996000" expanded="true" signature="958:1031" ph="..." />
+                <marker date="1466669996000" expanded="true" signature="1116:1218" ph="..." />
+                <marker date="1466669996000" expanded="true" signature="1351:1419" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +70,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>iframe</find>
-      <find>&lt;iframe</find>
       <find>moving-forward</find>
       <find>moving</find>
       <find>full</find>
@@ -76,6 +98,8 @@
       <find>coding</find>
       <find>revolution.exte</find>
       <find>revolution</find>
+      <find>.wrap</find>
+      <find>mute</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,10 +129,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="667" />
+    <option name="y" value="133" />
     <option name="width" value="1233" />
-    <option name="height" value="666" />
+    <option name="height" value="667" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -305,12 +329,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531073260971</updated>
       <workItem from="1531073262360" duration="10827000" />
-      <workItem from="1531084252887" duration="847000" />
+      <workItem from="1531084252887" duration="1864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11674000" />
+    <option name="totallyTimeSpent" value="12691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
@@ -451,10 +475,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1882">
+          <caret line="7" column="4895" lean-forward="false" selection-start-line="7" selection-start-column="4890" selection-end-line="7" selection-end-column="4895" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/revolution.extension.parallax.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="542" lean-forward="false" selection-start-line="6" selection-start-column="542" selection-end-line="6" selection-end-column="542" />
+          <folding>
+            <marker date="1466669996000" expanded="true" signature="958:1031" ph="..." />
+            <marker date="1466669996000" expanded="true" signature="1116:1218" ph="..." />
+            <marker date="1466669996000" expanded="true" signature="1351:1419" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="472" column="96" lean-forward="true" selection-start-line="472" selection-start-column="96" selection-end-line="472" selection-end-column="96" />
+        <state relative-caret-position="231">
+          <caret line="481" column="117" lean-forward="true" selection-start-line="481" selection-start-column="117" selection-end-line="481" selection-end-column="117" />
           <folding />
         </state>
       </provider>
