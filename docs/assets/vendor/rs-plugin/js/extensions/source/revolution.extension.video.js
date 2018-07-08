@@ -1069,7 +1069,7 @@ var htmlvideoevents = function(_nc,opt,startnow) {
 		if (opt.globalmute===true) 
 			video.muted = true;
 		else
-			video.muted = false;
+			video.muted = true;
 
 		if (vol>1) vol = vol/100;
 		if (vol=="mute")
