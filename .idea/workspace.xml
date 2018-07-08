@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1a9d483-a7b0-4069-bbb5-8869e5698c73" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" afterPath="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="488" column="100" lean-forward="true" selection-start-line="488" selection-start-column="100" selection-end-line="488" selection-end-column="100" />
+            <state relative-caret-position="588">
+              <caret line="158" column="54" lean-forward="true" selection-start-line="158" selection-start-column="54" selection-end-line="158" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -47,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="revolution.extension.video.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="revolution.extension.video.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="1071" column="30" lean-forward="false" selection-start-line="1071" selection-start-column="30" selection-end-line="1071" selection-end-column="30" />
+            <state relative-caret-position="182">
+              <caret line="1057" column="0" lean-forward="true" selection-start-line="1057" selection-start-column="0" selection-end-line="1057" selection-end-column="0" />
               <folding>
                 <marker date="1531087479886" expanded="true" signature="15213:15288" ph="..." />
                 <marker date="1531087479886" expanded="true" signature="16630:16644" ph="..." />
@@ -97,8 +98,8 @@
       <find>revolution.exte</find>
       <find>revolution</find>
       <find>.wrap</find>
-      <find>webkit</find>
       <find>mute</find>
+      <find>webkit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,8 +118,8 @@
         <option value="$PROJECT_DIR$/assets/vendor/rs-plugin/css/layers.css" />
         <option value="$PROJECT_DIR$/assets/custom/scss/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
       </list>
     </option>
   </component>
@@ -129,8 +130,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="502" />
+    <option name="y" value="169" />
     <option name="width" value="1233" />
     <option name="height" value="667" />
   </component>
@@ -176,34 +177,15 @@
               <item name="player2dev" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="player2dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="player2dev" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="rs-plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="player2dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="player2dev" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="rs-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="player2dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="player2dev" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="rs-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="extensions" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,15 +311,16 @@
       <option name="presentableId" value="Default" />
       <updated>1531073260971</updated>
       <workItem from="1531073262360" duration="10827000" />
-      <workItem from="1531084252887" duration="3228000" />
+      <workItem from="1531084252887" duration="4191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14055000" />
+    <option name="totallyTimeSpent" value="15018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -348,7 +331,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3351836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -478,18 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="488" column="100" lean-forward="true" selection-start-line="488" selection-start-column="100" selection-end-line="488" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/assets/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="1071" column="30" lean-forward="false" selection-start-line="1071" selection-start-column="30" selection-end-line="1071" selection-end-column="30" />
+        <state relative-caret-position="182">
+          <caret line="1057" column="0" lean-forward="true" selection-start-line="1057" selection-start-column="0" selection-end-line="1057" selection-end-column="0" />
           <folding>
             <marker date="1531087479886" expanded="true" signature="15213:15288" ph="..." />
             <marker date="1531087479886" expanded="true" signature="16630:16644" ph="..." />
@@ -499,6 +474,14 @@
             <marker date="1531087479886" expanded="true" signature="17550:17741" ph="..." />
             <marker date="1531087479886" expanded="true" signature="30992:30998" ph="&amp;nbsp;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="158" column="54" lean-forward="true" selection-start-line="158" selection-start-column="54" selection-end-line="158" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
